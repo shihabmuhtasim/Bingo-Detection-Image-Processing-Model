@@ -99,7 +99,7 @@ The **main script of the project is:**
 main.m
 ```
 
-> Note: In the original submission, this file was named `a01_V1AM6K.m`. It can safely be renamed to `main.m`.
+
 
 ### Steps
 1. Open MATLAB
