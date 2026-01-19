@@ -35,7 +35,7 @@ The output includes both **terminal output** (digitized array + Bingo status) an
 
 The assignment requires the processing function to present a figure composed of multiple subplots, each illustrating a key step of the pipeline.
 
-### 📍 EXAMPLE FIGURE
+<img width="2915" height="1648" alt="image" src="https://github.com/user-attachments/assets/3026201a-f4f4-4893-a219-be7e67bf52f9" />
 
 
 ---
