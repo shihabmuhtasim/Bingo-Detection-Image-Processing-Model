@@ -31,7 +31,7 @@ The output includes both **terminal output** (digitized array + Bingo status) an
 
 ---
 
-## 🖼️ Visual Processing Stages (Instructor-Style Explanation)
+## 🖼️ Visual Processing Stages
 
 The assignment requires the processing function to present a figure composed of multiple subplots, each illustrating a key step of the pipeline.
 
@@ -172,5 +172,7 @@ This project **received full marks (100/100)** for successfully fulfilling all f
 ---
 
 **Author:** Shihab Muhtasim
-**Course:** Image Processing  
+
+**Course:** Basic Image Processing  Algorithms, IPCVAI, PPCU, Budapest, Hungary
+
 **Language:** MATLAB
